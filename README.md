@@ -1,2 +1,7 @@
 # keymaps
-Keymaps for my mechanical keyboards
+Mechanical keyboard keymaps
+
+- Planck Preonic
+- Idobao ID75
+- Drop CTRL
+- Random macropad
